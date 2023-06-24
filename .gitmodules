@@ -1,0 +1,3 @@
+[submodule "3rdpart/ELFIO"]
+	path = 3rdpart/ELFIO
+	url = git@github.com:shenyongge/ELFIO.git
